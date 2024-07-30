@@ -1,0 +1,12 @@
+name: meastimate
+title: meastimate
+username:
+account: choxos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8925417
+bundleId: 8924190
+url: https://choxos.shinyapps.io/meastimate/
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|legacy/mean_sd_meta.R|LICENSE|paper/Appendix.pdf|paper/Chi et al 2023.pdf|README.md|www/kurdistan.png

@@ -1,0 +1,13 @@
+name: meastimate
+title: meastimate
+username:
+account: choxos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8925417
+bundleId: 7125119
+url: https://choxos.shinyapps.io/meastimate/
+when: 1682281223.32414
+lastSyncTime: 1682281223.32415
+asMultiple: FALSE
+asStatic: FALSE
